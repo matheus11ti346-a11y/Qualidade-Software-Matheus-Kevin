@@ -2,5 +2,8 @@
 Garantir que o sistema funcione corretamente nas funções principais.
 
 ## 2- Funcionalidades que serão testadas
--Cadastro
+-Cadastro de usuário 
+-Login no sistema
+-Envio de dados 
+-Exibição das informações na tela 
 
