@@ -1,3 +1,6 @@
-Matheus,Kevin e Valdison
-Tentativa de aplicar conceitos de versionamento utilizando o GitHub em Qualidade de Software
-Atividade de Qualidade de Software 
+#ALUNOS
+Matheus
+Kevin
+Valdison
+## OBJETIVOS
+tentativa de aplicar conceitos de versionamento ultilizando github em qualidade de software
