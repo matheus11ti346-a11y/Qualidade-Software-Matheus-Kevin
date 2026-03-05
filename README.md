@@ -1,8 +1,6 @@
 # Projeto qualidade de software
 ## Alunos
-Matheus
-Kevin
-Valdison
+Matheus, Kevin, Valdison
 ## OBJETIVOS
 Praticar o uso do GitHub e enteder conceitos de visrsionamento de software
 ## Descrição do projeto
