@@ -1,5 +1,6 @@
-# 1-Objetivo
+# 1- Objetivo
 Garantir que o sistema funcione corretamente nas funções principais.
 
-## 2-Funcionalidade testadas
+## 2- Funcionalidades que serão testadas
+-Cadastro
 
